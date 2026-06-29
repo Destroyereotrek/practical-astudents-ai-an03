@@ -1,4 +1,4 @@
-# 
+# Élite Practical AI Projects for Students scripts. Con IA generativa y procesamiento en tiempo real — optimizado para el máximo rendimiento.
 
 
 
